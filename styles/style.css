@@ -29,7 +29,7 @@
 }
 
 .header__title {
-  width: 730px;
+  max-width: 730px;
   font-size: 102px;
   font-weight: 600;
   line-height: 96px;
@@ -88,7 +88,7 @@
 
 .two-colomns__brief {
   margin: 0;
-  width: 175px;
+  max-width: 175px;
   font-size: 18px;
   font-weight: normal;
   line-height: 1.2;
@@ -123,6 +123,7 @@
 }
 
 .section-title {
+  max-width: 60%;
   font-size: 60px;
   font-weight: 600;
   line-height: 1.15;
@@ -132,7 +133,7 @@
 }
 
 .section-subtitle {
-  width: 60%;
+  max-width: 60%;
   font-size: 24px;
   font-weight: normal;
   line-height: 34px;
@@ -182,7 +183,7 @@
 .feynman__title {
   position: relative;
   z-index: 1;
-  width: 648px;
+  max-width: 648px;
   text-align: center;
   margin: 0 auto;
   margin-bottom: 70px;
@@ -306,7 +307,9 @@
 }
 
 .footer__column-link {
-  margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 30px;
   text-decoration: none;
   color: #fff;
   cursor: pointer;
