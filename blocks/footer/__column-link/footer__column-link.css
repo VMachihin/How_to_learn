@@ -5,9 +5,9 @@
   text-decoration: none;
   color: #fff;
   cursor: pointer;
-  transition: 0.4s all;
+  transition: opacity 0.4s;
 }
 
 .footer__column-link:hover {
-  color: #2f80ed;
+  opacity: 0.6;
 }

@@ -1,6 +1,6 @@
 .video {
   position: relative;
-  padding: 40px 0 0 0;
+  bottom: -40px;
   min-height: 500px;
   box-sizing: border-box;
 }
