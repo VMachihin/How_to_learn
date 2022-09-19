@@ -10,3 +10,11 @@
 .cards__item:nth-child(3) {
   margin-right: 0;
 }
+
+.cards__item:nth-child(4) {
+  margin-bottom: 0;
+}
+
+.cards__item:nth-child(5) {
+  margin-bottom: 0;
+}
