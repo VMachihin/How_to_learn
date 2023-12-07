@@ -1,4 +1,4 @@
-# [Начать учиться](https://vmachihin.github.io/How_to_learn)
+# [Начать учиться](https://how-to-learn-elip.onrender.com/)
 
 Проект на закрепление навыков создания web-приложения.
 
