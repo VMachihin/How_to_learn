@@ -1,4 +1,4 @@
-# [Начать учиться](https://learn.vitmach.ru)
+# [Начать учиться](https://vmachihin.github.io/How_to_learn)
 
 Проект на закрепление навыков создания web-приложения.
 
